@@ -25,4 +25,3 @@ This project focuses on manual testing of the [ OpenCart Demo Store] (https://de
 ## Contributions
 Contributions are welcome!Feel free to submit issues, enhancements, or suggestions to improve the manual testing process for OpenCart.
 
-## happy testing with first edit to the file
